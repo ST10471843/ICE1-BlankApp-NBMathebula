@@ -6,7 +6,7 @@
 - **Subject**: MAST
 
 ## Links
-- **GitHub Repository**: 
+- **GitHub Repository**: https://github.com/ST10471843/ICE1-BlankApp-NBMathebula.git
 
 
 ---
@@ -26,5 +26,7 @@ When setting up to create the app, I made the mistake of writing the wrong file 
 I checked my file title under that package and corrected it in the file explorer just by renaming the folder correctly.
 
 ### Screenshot of running app:
-Screenshot of homepage:<img width="390" height="826" alt="Ice1" src="https://github.com/user-attachments/assets/d18cd0fb-bb91-472c-9f2e-e271baf35acc" />
+Screenshot of homepage:
+
+<img width="390" height="826" alt="Ice1" src="https://github.com/user-attachments/assets/d18cd0fb-bb91-472c-9f2e-e271baf35acc" />
 
